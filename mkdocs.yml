@@ -1,0 +1,14 @@
+site_name: SAS Plots Library
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - KM plots: kmplots.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.snippets
